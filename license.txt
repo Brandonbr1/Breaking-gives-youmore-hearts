@@ -1,6 +1,6 @@
 Copyright (C) 2021 Brandonbr1 
 
-this minecraft plugin is under the GPL V3 lisence
+this Minecraft plugin is under the GPL V3 license
 
 
 GNU GENERAL PUBLIC LICENSE
