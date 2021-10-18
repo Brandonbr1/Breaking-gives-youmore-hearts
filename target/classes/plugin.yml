@@ -1,0 +1,11 @@
+name: Breakinggivesyoumorehearts
+version: '1.0-SNAPSHOT'
+main: me.brandon.breakgive.morehearts.breakinggivesyoumorehearts.Breakinggivesyoumorehearts
+api-version: 1.17
+authors: [ Brandonbr1 ]
+description: Breaking any block will give you an extra heart plugin inspired by mcbirden's Minecraft Manhunt But Every Block I Break Increases My Health
+
+commands:
+  breakblockmoreheart:
+    aliases: [bh]
+    description: /bh to start the plugin
